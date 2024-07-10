@@ -212,6 +212,16 @@ opacity: 0.7;
 margin: 24px 0px;
 padding: 25px;
 }
+.idesc2{
+    opacity: 0.7;
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+}
 .vid{
 box-sizing: border-box;
 border: 1px solid rgba(13, 19, 33, 0.2);
@@ -282,11 +292,12 @@ margin: 8px 0px;
     border-radius: 16px;
     background: rgba(0, 0, 0, 0.2);
     background-image: url("../assets/handshake.jpg");
-}
-.hand{
-    background-image: url("../assets/handshake.jpg");
     background-size: cover;
+    background-position: center;
+    margin: 25px;
 }
+
+
 .lis{
     display: flex;
     justify-content: space-between;
@@ -295,13 +306,31 @@ margin: 8px 0px;
 .lis .lis2{
     display: flex;
     gap: 20px;
-    
 }
 .marge4{
-
-    text-align: center;
-    margin: 2px 0px;
-    padding: 25px;
+    font-size: 24px;
+    width: 700px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
 }
+.marge42{
+    font-size: 24px;
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.lis3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
 
     
