@@ -47,7 +47,7 @@ top: 37px;
     margin: 40px;
 }
 .marge2{
-    margin: 140px 100px;
+    margin: 10px 100px;
 }
 .marge3{
     margin: 80 px 97px;
@@ -139,7 +139,7 @@ opacity: 0.7;
 .section3{
     display: flex;
     align-items: start;
-    gap: 45px;
+    gap: 5px;
     width: 800px;
 }
 .section3 .secfont{
@@ -188,7 +188,7 @@ padding: 12px 20px 12px 20px;
 .pip{
     display: flex;
     justify-content: flex-end;
-    margin-top: 25px;
+    margin: 25px;
 }
 .inspo{
 color: rgb(13, 19, 33);
