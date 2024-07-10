@@ -287,7 +287,21 @@ margin: 8px 0px;
     background-image: url("../assets/handshake.jpg");
     background-size: cover;
 }
-.marge4{
-    width: ;
+.lis{
+    display: flex;
+    justify-content: space-between;
+
 }
+.lis .lis2{
+    display: flex;
+    gap: 20px;
+    
+}
+.marge4{
+
+    text-align: center;
+    margin: 2px 0px;
+    padding: 25px;
+}
+
     
