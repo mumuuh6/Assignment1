@@ -246,8 +246,11 @@ margin: 35px;
 }
 #card-box{
 display: flex;
-gap: 10px;
+max-width: 1000px;
 justify-content: space-around;
+gap: 15px;
+margin: 20px auto;
+padding: 45px;
 }
 #card-box2{
     display: flex;
