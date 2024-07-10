@@ -16,6 +16,17 @@
 .color{
 color: rgb(13, 19, 33);
 }
+.s-color{
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.third-color{
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+.frth-color{
+    color: rgba(255, 76, 30, 0.05);
+}
 nav li a{
     text-decoration: none;
 }
@@ -34,6 +45,12 @@ top: 37px;
 }
 .marge{
     margin: 40px;
+}
+.marge2{
+    margin: 140px 100px;
+}
+.marge3{
+    margin: 80 px 97px;
 }
 .navcontentbtn{
     box-sizing: border-box;
@@ -96,3 +113,181 @@ background: rgb(13, 19, 33);
 .btnpos{
     text-align: center;
 }
+#section{
+    margin: 20px;
+}
+#section2 .title{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 30px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin: 20px;
+}
+#section2 .description{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+}
+.section3{
+    display: flex;
+    align-items: start;
+    gap: 45px;
+    width: 800px;
+}
+.section3 .secfont{
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin: 16px 0px;
+}
+.section3 .desfont{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+
+}
+.section3 .btnfont{
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+position: static;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 20px;
+
+}
+.difference{
+    margin: 48px 48px 48px;
+}
+.pip{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 25px;
+}
+.inspo{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin: 24px 0px;
+}
+.idesc{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin: 24px 0px;
+padding: 25px;
+}
+.vid{
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+}
+.vid .vid1{
+border-radius: 16px;
+width:70%;
+margin: 35px;
+}
+.card{
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+    width: 200px;
+}
+.card3{
+    border-radius: 16px;
+    padding: 40px;
+    width: 200px;
+}
+#card-box{
+display: flex;
+gap: 10px;
+justify-content: space-around;
+}
+#card-box2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    }
+.card2{
+        display: flex;
+        border-radius: 16px;
+        background: white;
+        gap: 10px;
+        padding: 40px;
+        width: 200px;  
+    }
+.brdr{
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+}
+.rlayout{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin: 8px 0px;
+}
+.desfont2{
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 400px;
+}
+.support{
+    border-radius: 16px;
+    background: rgba(0, 0, 0, 0.2);
+    background-image: url("../assets/handshake.jpg");
+}
+.hand{
+    background-image: url("../assets/handshake.jpg");
+    background-size: cover;
+}
+.marge4{
+    width: ;
+}
+    
